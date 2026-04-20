@@ -1,4 +1,4 @@
-# MyYou# MyYouthspan Digital Marketing Strategy Project
+ MyYouthspan Digital Marketing Strategy Project
 
 A team-based digital marketing strategy project focused on **MyYouthspan**, an AI-powered personalized health and wellness product developed by MetyTechnology.
 
