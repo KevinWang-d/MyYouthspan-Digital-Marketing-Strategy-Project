@@ -48,6 +48,17 @@ This project examined how MyYouthspan could strengthen its market entry strategy
 - Team collaboration
 - Business report writing
 
+- ## Selected Visuals
+
+### Healthy Living Social Post Mockup
+![Healthy Living Social Post Mockup](./assets/myyouthspan/healthy-living-social-post-mockup.png)
+
+### AI Wellness Sign-Up Ad Mockup
+![AI Wellness Sign-Up Ad Mockup](./assets/myyouthspan/ai-wellness-sign-up-ad-mockup.png)
+
+### MyYouthspan Webinar Promotion Mockup
+![MyYouthspan Webinar Promotion Mockup](./assets/myyouthspan/myyouthspan-webinar-promotion-mockup.png)
+
 ## Deliverables
 
 - Campaign overview and objective setting
