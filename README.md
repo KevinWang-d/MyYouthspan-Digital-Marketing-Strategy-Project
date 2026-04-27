@@ -51,7 +51,7 @@ This project examined how MyYouthspan could strengthen its market entry strategy
 - ## Selected Visuals
 
 ### Healthy Living Social Post Mockup
-![Healthy Living Social Post Mockup](/myyouthspan/healthy-living-social-post-mockup.png)
+![Healthy Living Social Post Mockup](myspan/myyouthspan/healthy-living-social-post-mockup.png)
 
 ### AI Wellness Sign-Up Ad Mockup
 ![AI Wellness Sign-Up Ad Mockup](./assets/myyouthspan/ai-wellness-sign-up-ad-mockup.png)
