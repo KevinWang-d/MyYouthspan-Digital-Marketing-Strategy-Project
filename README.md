@@ -57,7 +57,7 @@ This project examined how MyYouthspan could strengthen its market entry strategy
 ![AI Wellness Sign-Up Ad Mockup](./myspan/ai-wellness-sign-up-ad-mockup.png)
 
 ### MyYouthspan Webinar Promotion Mockup
-![MyYouthspan Webinar Promotion Mockup](./assets/myyouthspan/myyouthspan-webinar-promotion-mockup.png)
+![MyYouthspan Webinar Promotion Mockup](./myspan/myyouthspan/myyouthspan-webinar-promotion-mockup.png)
 
 ## Deliverables
 
